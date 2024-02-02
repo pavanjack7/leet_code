@@ -31,6 +31,7 @@ int main()
     }
     int size=arr.size();
     cout<<size<<endl;
+    Solution.solution;
     int output=slidingw(arr,size);
     cout<<output<<endl;
     return 0;
